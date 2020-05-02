@@ -4,13 +4,19 @@ GitHub repo for my assignment team
 
        ///TEAM///
 Team Leader
+
 Richard
 
 Team Members
+
 Jai
+
 Guanghong (Anthony)  s3777912
+
 Wen                  s3723037
+
 Timothy              s3846342
+
 
 
         ///TASKS///
