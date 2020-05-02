@@ -4,14 +4,19 @@ GitHub repo for my assignment team
 
        ///TEAM///
 Team Leader
+
 Richard
 
 Team Members
+
 Jai
-Guanghong
-Lei
-Wen
-Timothy
+
+Guanghong (Anthony)  s3777912
+
+Wen                  s3723037
+
+Timothy              s3846342
+
 
 
         ///TASKS///
@@ -22,7 +27,7 @@ Tools
 Richard
 
 Industry Data
-Lei
+Jai/Wen/Timothy
 
 IT Work
 Richard
