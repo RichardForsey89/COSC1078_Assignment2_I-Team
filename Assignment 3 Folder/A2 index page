@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+
+<html>
+       
+<Head>
+    <meta charset="UTF-8">
+   <title>Welcome to I-Team Project</title>
+     <link rel="stylesheet" type="text/css" href="CSS/style.css">
+</Head>
+
+<body>
+    <div class="main">
+        <ul>
+				<li class="active"><a a href="index.html" accesskey="1" title="">Homepage</a></li>
+				<li><a href="https://iteamsinglename.s3.amazonaws.com/Team_Profile.html" accesskey="2" title="">Team profile</a></li>
+				<li><a href="https://iteamsinglename.s3.amazonaws.com/IT_work_interview.html" accesskey="3" title="">IT work interview</a></li>
+				<li><a href="https://iteamsinglename.s3.amazonaws.com/Project_idea.html" accesskey="4" title="">Project idea</a></li>
+				<li><a href="https://iteamsinglename.s3.amazonaws.com/augmented_reality.html" accesskey="5" title="">IT Technologies 1: Augemented Reality</a></li>
+                <li><a href="https://iteamsinglename.s3.amazonaws.com/Industry_data.html" accesskey="5" title="">Industry Data</a></li>
+                <li><a href="https://iteamsinglename.s3.amazonaws.com/Feedback.html" accesskey="5" title="">Feedback</a></li>
+                <li><a href="https://iteamsinglename.s3.amazonaws.com/Reflection.html" accesskey="5" title="">Reflections on the Project</a></li>
+                <li><a href="https://iteamsinglename.s3.amazonaws.com/meetings.html" accesskey="5" title="">Meeting recordings</a></li>
+                <li><a href="https://iteamsinglename.s3.amazonaws.com/References_List.html" accesskey="5" title="">References</a></li>
+			</ul>
+		
+    </div>
+        <div class="title">
+            <h1>Welcome to I-Team Project</h1>
+            
+    </div>
+</body>
+</html>
