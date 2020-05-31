@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Meeting Records</title>
+</head>
+
+<body>
+    <h1>Meetings Records</h1>
+    <hr>
+    <a href="http://titan.csit.rmit.edu.au/~s3723037/A3/">Return to index page</a>
+
+    <table>
+        <tr>
+            <th>Meeting Number </th>
+            <th>Meeting Name </th>
+            <th>Actions</th>
+            <th>Date </th>
+            <th>MS Teams Link </th>
+        </tr>
+        <tr>
+            <td>01 </td>
+            <td>First Assignment 3 Meeting: Initial roles selection.</td>
+
+            <td>Meeting One: Checked in progress of tasks, assigned the 2nd set of tasks, and planned work session for the following day.</td>
+            <td>08/05/2020</td>
+            <td><a href="https://web.microsoftstream.com/video/bbf02ffe-d29b-405f-aec8-f567f13c41cd">Here</a> </td>
+        </tr>
+        <tr>
+            <td>02 </td>
+            <td>Internal team meeting </td>
+            <td>Internal team meeting for the I-Team, mostly to check in on work done, assign tasks and prepare for the meeting with Issac.</td>
+            <td>19/05/2020 </td>
+            <td><a href="https://web.microsoftstream.com/video/0f911adc-45a8-4e8a-a0e4-05e15e678f31">Here</a> </td>
+        </tr>
+        <tr>
+            <td>03 </td>
+            <td>Group meeting with Issac </td>
+            <td>Meeting for I-Team with Issac.</td>
+            <td>21/05/2020 </td>
+            <td><a href="https://web.microsoftstream.com/video/5dfc8602-ecd2-4b30-810b-91fe22e6c7cd">Here</a> </td>
+        </tr>
+        <tr>
+            <td>04 </td>
+            <td>Pdiscussion of presentation</td>
+            <td>Discuss how to make a video and script content</td>
+            <td>22/05/2020 </td>
+            <td><a href="https://web.microsoftstream.com/video/5cdafe52-2076-4259-a7b9-97d1827f091b">Here</a> </td>
+        </tr>
+        <tr>
+            <td>05 </td>
+            <td>HTML conversion </td>
+            <td>Discuss who is responsible for converting text to HTML</td>
+            <td>31/05/2020 </td>
+            <td><a href="https://web.microsoftstream.com/video/d3036deb-3427-4033-84ee-12dde80791cf">Here</a> </td>
+        </tr>
+        
+
+    </table>
+    <hr>
+    <a href="http://titan.csit.rmit.edu.au/~s3723037/A3/">Return to index page</a>
+</body>
+
+</html>
