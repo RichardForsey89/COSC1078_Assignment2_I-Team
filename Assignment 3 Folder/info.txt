@@ -1,0 +1,2 @@
+This is the folder where we will convert the content into HTML.
+-Richard
