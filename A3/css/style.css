@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/* Default/basic formatting of the body */
+body {
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(175, 234, 240);   
+}
+
+/* Global container - makes it in the middle */
+.global-container {
+  width: 85%;
+  max-width: 1200px;
+  margin:0 auto;
+  overflow: hidden;
+}
+/* Global ul: removes default margin and padding */
+ul {
+  margin: 0;
+  padding: 0;
+}
+/* Removes the arrow up and down option of numbers input */
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+h1, h2, h3 {
+  font-family: 'Titillium Web', sans-serif;
+}
+/* Header */
+header {
+    
+  background: rgb(31,194,209);
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+/* Highlight the current nav user is on */
+header .current{
+  font-weight: bold;
+}
+/* project name */
+header .brand {
+  float: left;
+  margin:0;
+}
+/* Navigation bar */
+nav {
+  float: right;
+  margin-top: 20px;
+}
+/* nav > ul > li */
+nav li {
+  float: left;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px 12px;
+  text-transform: uppercase;
+  list-style: none;
+  display: inline;
+}
+
+header a{
+    
+  text-decoration: none;
+  color: inherit;
+}
+.dropdown {
+  overflow: hidden;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: rgb(175, 234, 240);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.3);
+  z-index: 99;
+}
+
+/* Colors the nav link on hover */
+nav a:hover, nav a:focus {
+  color: rgb(14,145,232);
+}
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display:grid;
+}
+
+.sections {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+ color: white;
+  transform: translate(-50%, -50%);
+  background-color: rgb(31,194,209);
+    
+}
+/*
+
+h3{
+ border: 1px solid rgb(31,194,209);
+}
+*/
+h2{
+    border-bottom: 1px solid rgb(31,194,209);
+}
+
+.accordion {
+  background-color:darkturquoise;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: rgb(204, 255, 255); 
+}
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background: rgb(31,194,209);
+   color: white;
+   text-align: center;
+}
+.bor{
+    border: 100px solid rgb(204,255,255);
+}
